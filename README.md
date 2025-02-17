@@ -54,3 +54,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=walid1508&show_icons=true&locale=en" alt="walid1508" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walid1508&" alt="walid1508" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=walid1508&show_icons=true&locale=en&layout=compact" alt="walid1508" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walid1508/walid1508/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walid1508/walid1508/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/walid1508/walid1508/output/github-snake.svg" />
+</picture>
